@@ -6,8 +6,8 @@
 
 # Contents
 - [Files to Refer](#files-to-refer)
-- [Things tried & Further Improvements](#things-tried--further-improvements)
 - [Models Used](#models-used)
+- [Things tried & Further Improvements](#things-tried--further-improvements)
 - [References](#references)
 
 ## Files to Refer
